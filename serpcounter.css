@@ -1,0 +1,25 @@
+.js-counter {
+    position: relative;
+    top: 14px;
+    left: -50px;
+    line-height: 0;
+    float: left;
+    color: #ccc;
+    font-size: 19px;
+    animation: linear fadeIn .3s;
+    user-select: none;
+}
+
+/* Featured snippet box */
+.c2xzTb {
+    overflow: visible !important;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
