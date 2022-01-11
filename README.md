@@ -3,6 +3,10 @@ Firefox Extension that adds a counter next to the Google search results.
 
 - [More info](https://martijnoud.com/google-serp-counter/)
 
+# Version 1.2.1 (2022-01-10)
+- Fixed syntax error when no PAA urls found
+
+
 # Version 1.2.0 (2022-01-10)
 - Fixed: Counter not working with “People also asked” box with new serp layout
 - Changed Hex color to match dark theme URL color
