@@ -3,6 +3,10 @@ Firefox Extension that adds a counter next to the Google search results.
 
 - [More info](https://martijnoud.com/google-serp-counter/)
 
+# Version 1.3.1 (2022-01-18)
+- Skip featured snippets (position #0)
+- Fix counter not working with indented results
+
 # Version 1.3.0 (2022-01-17)
 - Rewrite visibility detector for serp features like PAA
 - Fix counter not displaying due to new html layout
